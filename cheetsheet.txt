@@ -1,0 +1,26 @@
+Hard Totals 
+Dealer Upcard,17,16,15,14,13,12,11,10,9,8
+2,S,S,S,S,S,H,D,D,H,H
+3,S,S,S,S,S,H,D,D,D,H
+4,S,S,S,S,S,S,D,D,D,H
+5,S,S,S,S,S,S,D,D,D,H
+6,S,S,S,S,S,S,D,D,D,H
+7,S,H,H,H,H,H,D,D,H,H
+8,S,H,H,H,H,H,D,D,H,H
+9,S,H,H,H,H,H,D,D,H,H
+10,S,H,H,H,H,H,D,H,H,H
+A,S,H,H,H,H,H,D,H,H,H
+
+
+Soft Totals:
+Dealer Upcard,A9,A8,A7,A6,A5,A4,A3,A2
+2,S,S,Ds,H,H,H,H,H
+3,S,S,Ds,D,D,D,H,H
+4,S,S,Ds,D,D,D,D,D
+5,S,S,Ds,D,D,D,D,D
+6,S,Ds,Ds,D,D,D,D,D
+7,S,S,S,H,H,H,H,H
+8,S,S,H,H,H,H,H,H
+9,S,S,H,H,H,H,H,H
+10,S,S,H,H,H,H,H,H
+A,S,S,H,H,H,H,H,H
