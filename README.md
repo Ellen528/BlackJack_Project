@@ -18,9 +18,9 @@ The web app consists of two main pages: "Home" and "PlayGround with Statistics."
 •	A message indicates how the user's “Luck” compares to the distribution of all other possibilities.
 
 ### Future Developments
-•	Modularizing the Code: Splitting the main app script into smaller, manageable files to improve code organization and maintainability.
-•	Implementing full Blackjack rules, including split and double functionalities.
-•	Enhancing the autoplay mode with a comprehensive strategy.
-•	Exploring additional strategies, such as card counting, to analyze their impact on winning rates through extensive statistical analysis. 
+- Modularizing the Code: Splitting the main app script into smaller, manageable files to improve code organization and maintainability.
+- Implementing full Blackjack rules, including split and double functionalities.
+- Enhancing the autoplay mode with a comprehensive strategy.
+- Exploring additional strategies, such as card counting, to analyze their impact on winning rates through extensive statistical analysis. 
 
 
