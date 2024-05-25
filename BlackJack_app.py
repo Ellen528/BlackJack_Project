@@ -18,10 +18,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
-from collections import Counter
-from itertools import product
-import time
 from scipy.stats import binom
 
 # ===== Blackjack Game Logic =====
@@ -179,7 +175,7 @@ class Gumbler(Player):
         """calculate the gambler's final points."""
         if dealer.cards_on_hand[0].face >= 2 and dealer.cards_on_hand[0].face <= 6:
             gambler_current_point = self.first_2_sum_point()
-            while gambler_current_point < 12: # revise to 12
+            while gambler_current_point < 12:
                 self.hit(joker.next())
                 gambler_current_point = self.current_point()
             return gambler_current_point
@@ -693,8 +689,3 @@ def show_statistics(n):
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
