@@ -2,6 +2,7 @@
 ## How to Use the Program
 ### Introduction
 This project uses Python's Streamlit package to create a web app for playing Blackjack. The web app offers an intuitive interface, making the game easily accessible and enjoyable.
+App Link: https://blackjackproject-cntwrpqoi8fhzzjrzg6sra.streamlit.app/
 
 ### Web App Pages
 The web app consists of two main pages: "Home" and "PlayGround with Statistics."
